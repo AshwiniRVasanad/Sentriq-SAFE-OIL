@@ -1,0 +1,6 @@
+{
+  "name": "SENTRIQ - Safety AI for Fatality Elimination",
+  "description": "AI/NLP-based SIF Precursor Intelligence Platform for Oil & Gas HSE Operations (SIH 2026 - Problem Statement 26165 - Oil India Limited)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
